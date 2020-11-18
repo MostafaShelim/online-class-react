@@ -1,0 +1,13 @@
+.cart{
+    width: 30%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-top: 200px;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    box-sizing: border-box;
+    border: none;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
+}
